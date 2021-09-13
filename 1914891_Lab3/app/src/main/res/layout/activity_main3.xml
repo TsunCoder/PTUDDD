@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3"
+    android:orientation="vertical"
+    android:background="@color/design_default_color_primary_dark">
+
+    <TextView
+        android:id="@+id/tv_hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:text="@string/tv_xinChao"
+        android:textSize="40sp"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/et_Email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:hint="@string/txt_Email"
+        android:textColorHint="@color/white"/>
+    <EditText
+        android:id="@+id/et_Pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:hint="@string/txt_Pass"
+        android:textColorHint="@color/white"/>
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:text="@string/login"
+        android:backgroundTint="@color/gray"
+        android:textColor="@color/white"
+        android:layout_marginTop="25dp"/>
+    <TextView
+        android:id="@+id/tv_register
+"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/error"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="16dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:id="@+id/tv_viet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vietnam"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_marginLeft="30sp"/>
+
+        <TextView
+            android:id="@+id/tv_anh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/english"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_marginLeft="60dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_phap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fran"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_marginLeft="60sp"/>
+    </LinearLayout>
+</LinearLayout>

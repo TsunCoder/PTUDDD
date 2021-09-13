@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Sound</string>
+    <string name="error">Ne pas avoir un compte? singer</string>
+    <string name="vietnam">Tiếng Việt</string>
+    <string name="english">English</string>
+    <string name="fran">Français</string>
+    <string name="login">Connexion</string>
+    <string name="txt_Pass">mot de passe</string>
+    <string name="txt_Email">addresse e-mail</string>
+    <string name="tv_xinChao">accueil</string>
+    <string name="txt_desc">Rabbits are small mammals in the family Leporidae (along with the</string>
+    <string name="txt_name">Rabbit</string>
+</resources>
