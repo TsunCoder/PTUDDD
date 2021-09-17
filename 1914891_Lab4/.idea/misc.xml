@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/bg_login.xml" value="0.2755208333333333" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/bg_radius.xml" value="0.2755208333333333" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/bg_radius_emoji.xml" value="0.1921875" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/bg_radius_login.xml" value="0.2755208333333333" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/bg_top.xml" value="0.2755208333333333" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/drawable/ic_mail.xml" value="0.15" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/actionbar_home.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_emoji.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_face_emoij.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_main.xml" value="0.2453125" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_main_emoji.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/activity_main_word.xml" value="0.2545289855072464" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/item_topic.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/m001_act_login.xml" value="0.259375" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/m001_frg_face_emoij.xml" value="0.17604166666666668" />
+        <entry key="..\:/Study/Android/Projects/1914891_Lab4/app/src/main/res/layout/toast_layout.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

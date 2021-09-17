@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_radius_login"
+    android:gravity="center"
+    android:padding="10dp"
+    android:id="@+id/ll_toast">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_local_fire_department_24"
+        android:id="@+id/iv_fire"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_toast"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textStyle="italic"
+        android:textSize="16sp"/>
+</LinearLayout>
